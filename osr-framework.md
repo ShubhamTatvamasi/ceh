@@ -14,8 +14,8 @@ usufy.py -n shubhamtatvamasi -p facebook youtube
 # Search for emails
 mailfy.py -n shubhamtatvamasi
 
-# 
-searchfy.py -q "Shubham Tatvamasi"
+# search sting on different platforms
+searchfy.py -q "ShubhamTatvamasi"
 ```
 
 
