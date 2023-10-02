@@ -7,8 +7,11 @@ sudo apt install osrframework
 
 
 ```bash
+# Search user on public platforms
 usufy.py -n shubhamtatvamasi
+
 mailfy.py -n shubhamtatvamasi
+
 searchfy.py -q shubhamtatvamasi
 ```
 
