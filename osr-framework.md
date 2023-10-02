@@ -11,9 +11,11 @@ sudo apt install osrframework
 usufy.py -n shubhamtatvamasi
 usufy.py -n shubhamtatvamasi -p facebook youtube
 
+# Search for emails
 mailfy.py -n shubhamtatvamasi
 
-searchfy.py -q shubhamtatvamasi
+# 
+searchfy.py -q "Shubham Tatvamasi"
 ```
 
 
