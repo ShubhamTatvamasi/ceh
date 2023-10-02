@@ -9,7 +9,7 @@ sudo apt install osrframework
 ```bash
 # Search user on public platforms
 usufy.py -n shubhamtatvamasi
-usufy.py -n shubhamtatvamasi -p facebook
+usufy.py -n shubhamtatvamasi -p facebook youtube
 
 mailfy.py -n shubhamtatvamasi
 
